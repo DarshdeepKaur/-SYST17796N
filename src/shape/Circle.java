@@ -7,7 +7,7 @@ package shape;
  * @author Darshdeep Kaur 
  */
 public class Circle {
-private int radius;
+ int radius;
 
     /**
      * @return the radius
