@@ -7,7 +7,7 @@ package shape;
  * @author Darshdeep Kaur 
  */
 public class Symmetricshape {
-    // divide shape winto two equal parts 
+    // divide shape into two equal parts 
  private int divide;
 
     /**
